@@ -1,2 +1,2 @@
-# mysql_project
-end-to-end mysql 
+# LLM_project
+end-to-end project
