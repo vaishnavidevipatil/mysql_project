@@ -1,2 +1,2 @@
-# LLM_project
+# MySQL_project
 end-to-end project
